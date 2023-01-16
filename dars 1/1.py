@@ -5,6 +5,7 @@ class Students:
         self.yosh = age
 
 
+        
 print('talaba 1')
 student = Students
 student.first_name = 'Ali'
