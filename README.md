@@ -1,1 +1,1 @@
-# python_darslar
+# python_darslar 2-modulda ishlagan fazifalar
