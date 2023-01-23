@@ -5,12 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9121623f-1919-4c68-8035-52c8a9473bd7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/csv vazifa/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csv vazifa/vazifa1/birinchi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csv vazifa/vazifa1/ikkinchi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csv vazifa/vazifa1/priceEach_300.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csv vazifa/vazifa1/vazifa3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csv vazifa/working_with_files/task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csv vazifa/csv/netflix_titles.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csv vazifa/csv/worldometer_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csv vazifa/vazifa2/movie United Stetes.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csv vazifa/vazifa2/relase_year_2020_2021.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csv vazifa/vazifa2/rlisted_in_comedies.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csv vazifa/vazifa2/vazifa1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csv vazifa/vazifa2/vazifa2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csv vazifa/vazifa1/coutry_c.txt" beforeDir="false" afterPath="$PROJECT_DIR$/csv vazifa/vazifa1/coutry_c.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csv vazifa/vazifa1/ikkinchi.py" beforeDir="false" afterPath="$PROJECT_DIR$/csv vazifa/vazifa1/ikkinchi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csv vazifa/vazifa1/vazifa3.py" beforeDir="false" afterPath="$PROJECT_DIR$/csv vazifa/vazifa1/vazifa3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +49,9 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "D:/Roziali/python/python_darslar",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "preferences.fileTypes"
   }
 }]]></component>
   <component name="RecentsManager">
