@@ -41,3 +41,4 @@ print(f"talabalar malumoti {talaba_info}\n")
 # talaba_info.append(student3_info)
 # if student3.age >= 18 and student3.age <= 25:
 #     from18to25.append(student3_info)
+
